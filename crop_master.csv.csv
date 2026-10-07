@@ -1,0 +1,6 @@
+crop_name,n_min,n_max,p_min,p_max,k_min,k_max,ph_min,ph_max,water_req_mm,season,avg_yiels_per_acre,avg_input_cost
+Rice,80,120,40,60,40,60,5.5,7.5,1200,kharif,2.5,28000
+Wheat,90,130,50,70,40,60,6,7.5,600,rabi,2.5,24000
+maize,100,150,50,70,40,60,5.8,7,500,kharif,2.8,22000
+Ground nut.,20,40,40,60,40,60,5.8,6.5,450,kharif,1.5,20000
+Cotton,100,150,50,70,50,70,5.5,8,700,kharif,1.8,35000
